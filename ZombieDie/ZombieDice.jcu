@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>ZombieDice</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>ZombieDice</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>ZombieDie.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>GreenZombieDie.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>RedZombieDie.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>YellowZombieDie.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>ZombieDiceBucket.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Main.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
